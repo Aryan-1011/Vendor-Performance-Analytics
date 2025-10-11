@@ -2,10 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
-[![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg)](https://powerbi.microsoft.com)
+<!-- [![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg)](https://powerbi.microsoft.com) -->
 [![SQLite](https://img.shields.io/badge/SQLite-Database-green.svg)](https://sqlite.org)
 
-![Workflow](Workflow.png)
+<!-- ![Workflow](Workflow.png) -->
 
 ## 📋 Problem Statement
 
@@ -26,7 +26,7 @@ Businesses constantly ask:
 - Where are we losing money — in pricing, inventory, or buying decisions?
 - How can we optimize vendor relationships for maximum profitability?
 
-This project tackles those questions head-on using comprehensive data analysis and interactive dashboards.
+<!-- This project tackles those questions head-on using comprehensive data analysis and interactive dashboards. -->
 
 ## 🔄 How It Works
 
@@ -39,8 +39,8 @@ This project tackles those questions head-on using comprehensive data analysis a
 ### 3. **Insight Generation** 💡
    Calculate key performance indicators (KPIs) like margins, sales trends, stuck inventory, and vendor-level performance metrics.
 
-### 4. **Visualization** 📊
-   Build an interactive Power BI dashboard that's user-friendly and ready for business stakeholders.
+<!-- ### 4. **Visualization** 📊
+   Build an interactive Power BI dashboard that's user-friendly and ready for business stakeholders. -->
 
 ## 📊 Data Sources
 
@@ -62,8 +62,8 @@ All datasets are consolidated into a single SQLite database for efficient queryi
 | `PowerBI_Data_Dictionary.md` | Documentation | Comprehensive data dictionary for Power BI dashboard |
 | `inventory.db` | Database | SQLite database containing all processed data |
 | `final_table_for_powerbi.csv` | Power BI Data | Clean, merged dataset ready for Power BI visualization |
-| `Workflow.png` | Documentation | Visual project workflow diagram |
-| `Dashboard.gif` | Preview | Animated preview of the interactive Power BI dashboard |
+<!-- | `Workflow.png` | Documentation | Visual project workflow diagram |
+| `Dashboard.gif` | Preview | Animated preview of the interactive Power BI dashboard | -->
 
 ## 💻 Code Examples
 
@@ -110,11 +110,11 @@ merged.to_csv('final_table_for_powerbi.csv', index=False)
 - **SQL** - Complex joins, filtering, grouping, and aggregation
 - **Python** - Scripting with logging, chunking, and comprehensive error handling
 - **Pandas** - Advanced data wrangling and manipulation techniques
-- **Power BI** - Interactive dashboard creation and data visualization
+<!-- - **Power BI** - Interactive dashboard creation and data visualization -->
 - **Data Engineering** - ETL processes and data pipeline development
 - **Business Intelligence** - Translating business problems into data-driven solutions
 
-## 📈 Dashboard Preview
+<!-- ## 📈 Dashboard Preview
 
 ![Dashboard](Dashboard.gif)
 
@@ -124,7 +124,7 @@ Interactive Power BI dashboard featuring:
 - Profit margin calculations
 - Vendor health indicators
 - Inventory movement tracking
-- Real-time KPI monitoring
+- Real-time KPI monitoring -->
 
 ## 🚀 Getting Started
 
