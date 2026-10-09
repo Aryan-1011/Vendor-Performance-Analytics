@@ -164,14 +164,6 @@ For detailed information about the data structure and fields, refer to [PowerBI_
 
  
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Goutam IITP**
-- GitHub: [@GoutamIITP](https://github.com/GoutamIITP)
 
 ---
  
