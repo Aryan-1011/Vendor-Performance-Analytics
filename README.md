@@ -1,4 +1,4 @@
-# Vendor Performance Data Analytics - End-to-End Project
+# Vendor Performance Data Analytics
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
